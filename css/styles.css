@@ -1,0 +1,70 @@
+styles.css
+
+*
+{
+margin:0;
+padding:0;
+
+}
+
+.logo{
+width: 200px;
+height: 100px;
+margin:18px;
+
+}
+
+.alert-sucess
+{
+font-weight: 600;
+display: none;
+border: 1px solid #aaa;
+position: fixed;
+width: 300px;
+height: 100px;
+}
+
+.header
+{
+
+height: 10%;
+
+}
+.header-btn{
+
+text-decoration: none;
+border-radius: 30px;
+padding: 7px 20px;
+margin-top: 1px;
+color: #fff; important!
+background-image:linear linear-gradient(to right,#a517ba,#51782);
+}
+
+.movie-details{
+margin: 3% 0;
+
+}
+
+ .uploadmovie btn-primary
+ {
+box-shadow: none;
+padding: 8px 25px;
+border: none;
+}
+
+
+
+h1
+{
+text-align: center;
+}
+.input{
+padding: 10px;
+widows: 100%;
+font-size: 17px;
+border: 1px solid # aaaaaa;
+}
+.btn-danger
+{
+
+}
